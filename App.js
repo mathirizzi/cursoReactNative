@@ -7,7 +7,7 @@ export default function App() {
     <View style={styles.container}>
       <View style={{
         flexDirection: 'row',
-        justifyContent: 'space-beetween'
+        justifyContent: 'space-between'
       }}>
         <TextInput style={{borderBottomColor: 'black', borderWidth: 1}} />
           <Button title="Agregar" />
